@@ -21,7 +21,7 @@ MediaPipe
 
 ⚙️ Installation
 Clone the repository:
-git clone https://github.com/priyakorada-123/your-repo-name.git
+git clone https://github.com/priyakorada-123/gitReal-Time Hand Gesture Detection using Computer Vision
 Navigate to the project folder:
 cd Real-Time Hand Gesture Detection using Computer Vision
 
