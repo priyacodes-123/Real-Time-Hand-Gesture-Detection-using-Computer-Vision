@@ -52,8 +52,25 @@ Displays output in real-time
 
 
 
-Screenshot:
+📸 Screenshots:
 <img width="1920" height="1080" alt="Screenshot 2026-02-26 155239" src="https://github.com/user-attachments/assets/865655a3-7ef3-4b70-8751-7a48ba4d0035" />
+
+
+
+
+# 👩‍💻 Author
+
+* Priya Korada
+* GitHub:https://github.com/priyacodes-123
+
+
+## 📬 Contact Me
+
+Feel free to connect with me:
+
+📧 Email: priyakorada03@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/priya-korada-458746358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
+💻 GitHub:https://github.com/priyacodes-123
 
 
 🔮 Future Improvements
